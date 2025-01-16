@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: 2025 Spring Courseworks
 nav_exclude: true
 permalink: /:path/
 ---
