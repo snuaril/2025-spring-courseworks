@@ -12,7 +12,7 @@ M2866.004300
 > The development of artificial intelligence technology that reproduces human intelligence with the same structure and principles is expected to bring innovation to the manufacturing sectors that have been outside the field of automation and computerization. This course aims to understand the fundamental principles, possibilities, and limitations of how artificial intelligence can be used to manufacture products. For this purpose, students will learn not only product inspection, forecasting and maintenance, but also theories, practical examples of specific artificial intelligence that can meet the demands in each manufacturing flow, including product design, material discovery and design, and manufacturing machinery.
 
 - __Location__: Bld 38-429
-- __Lecture__: Friday 13:00 - 15:30
+- __Lecture__: Friday 13:00 - 15:50
   
 
 
